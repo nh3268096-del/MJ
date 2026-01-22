@@ -1,0 +1,7 @@
+{
+  "name": "MJ - Bangla School AI",
+  "description": "A friendly and intelligent Bengali school assistant powered by Gemini. Helps students with homework, math, and daily schedules.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
